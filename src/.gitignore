@@ -1,0 +1,12 @@
+*
+!.gitignore
+!gui.py
+!leaderboard.cc
+!main.py
+!mic.py
+!run.sh
+!sonicsensor.py
+!strip.py
+!screamer.py
+!distancesensor.py
+!servo.py
